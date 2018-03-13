@@ -1,0 +1,6 @@
+epoch=1 likelihood(train): 1.1754277958441508
+epoch=1 likelihood(validation): 1.6654143136378297
+epoch=2 likelihood(train): 0.9002472119869621
+epoch=2 likelihood(validation): 1.3175122207190564
+error(train): 0.3148148148148148
+error(test): 0.2
